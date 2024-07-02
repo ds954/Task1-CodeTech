@@ -1,0 +1,4 @@
+Flask
+MySQL
+flsk-mysqldb
+Flask gTTS mysql-connector-python  
