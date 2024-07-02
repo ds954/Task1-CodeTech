@@ -15,6 +15,12 @@ def index():
         text = request.form.get('text')
         language = request.form.get('language')
 
+        if 'file' in request.files:
+            file = request.files['file']
+            if file.filename != '':
+                # Read the content of the file
+                text = file.read().decode('utf-8')
+
         # Generate speech if text is available
         if text:
             gtts_object = gTTS(text=text, lang=language, slow=False)
