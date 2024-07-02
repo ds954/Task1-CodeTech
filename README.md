@@ -4,9 +4,9 @@
 
 Text to Speech Converter is a web application built with Flask that converts text input into speech using the Google Text-to-Speech (gTTS) API. It provides a user-friendly interface for entering text, selecting languages, and generating downloadable audio files in MP3 format.
 
-![index page](images/index_page.png){: style="margin-bottom: 20px;"}
+![index page](images/index_page.png)
 
-![result page](images/result_page.png){: style="margin-bottom: 20px;"}
+![result page](images/result_page.png)
 
 ### Features
 
