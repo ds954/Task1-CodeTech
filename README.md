@@ -1,4 +1,4 @@
-# Task2-CodeTech
+# Task1-CodeTech
 NAME: Dhara Savani  
 DOMAIN NAME: Machine Learning  
 INTERN ID: CT08DS1649  
